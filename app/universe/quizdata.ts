@@ -22,8 +22,8 @@ export const files =  [
     {
       id: "2",
       title: "STORYTELLING PROMPTS",
-      source: "/cards/sun-sm.svg",
-      bgColor: "#B32891",
+      source: "/cards/country-sm.svg",
+      bgColor: "#469692",
       questions: [
         {
           question: "Who was the first democratic president of South Africa?",
@@ -43,7 +43,7 @@ export const files =  [
       id: "3",
       title: "CHALLENGING CARDS",
       source: "/cards/sun-sm.svg",
-      bgColor: "#00C8DA",
+      bgColor: "#007199",
       questions: [
         {
           question: "Which city is known as the legislative capital of South Africa?",
