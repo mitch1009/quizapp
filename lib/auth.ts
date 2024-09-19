@@ -6,7 +6,7 @@ import Entra from "next-auth/providers/microsoft-entra-id";
 import { isProd } from "./utils";
 export const { handlers, signIn, signOut, auth } = NextAuth({
   theme:{
-    colorScheme: 'light',
+    colorScheme: 'dark',
     logo: '/eoh.png',
   },
   debug: process.env.NODE_ENV === "development",
