@@ -10,7 +10,7 @@ function SubUniverse() {
       style={{ backgroundImage: 'url("/cards/flag.svg")' }}
     >
       <div className="rounded-lg w-full">
-        <QuizComponent url="pubic" files={files} />
+        <QuizComponent url="public" files={files} />
       </div>
     </div>
   )
