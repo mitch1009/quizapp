@@ -43,7 +43,7 @@ export const files =  [
       id: "3",
       title: "CHALLENGING CARDS",
       source: "/cards/sun-sm.svg",
-      bgColor: "#007199",
+      bgColor: "#00C8DA",
       questions: [
         {
           question: "Which city is known as the legislative capital of South Africa?",
