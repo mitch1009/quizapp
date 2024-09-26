@@ -14,7 +14,7 @@ export async function GET(request: Request) {
                         orderBy: {
                             score: 'asc'
                         },
-                        take: 10 // Limit the number of records
+                        take: 10000 // Limit the number of records
                     });
                     // get current players 
                     const players = await db.gameSession.findMany({
